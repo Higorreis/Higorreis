@@ -4,7 +4,7 @@
  - 👦 Meu nome é Higor Reis, tenho 28 anos, sou programador Full Stack iniciante apaixonado por desenvolvimento e tecnologia. 
  - 💻 Atualmente sou Analista de Suporte Técnico.
  - 💱 Porém já estou em transição de carreira a um bom tempo para tornar-se um desenvolvedor determinado e competente para desempenhar minhas tarefas com exatidão.
- - 🎓 Formado em Computação na Universidade Estadual do Ceará - UECE. Estou cursando 2º semestre em Análise e Desenvolvimento de Sistemas - UNIFOR e participando de projetos 
+ - 🎓 Formado em Computação na Universidade Estadual do Ceará - UECE, cursando 2º semestre em Análise e Desenvolvimento de Sistemas - UNIFOR e participando de projetos 
    como o Geração Tech 2.0 e o DevClub.
  - 💥 Busco aprimorar meus conhecimentos teóricos e práticos por meio da criação de projetos.
 
