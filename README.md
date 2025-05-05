@@ -1,7 +1,7 @@
-## Olá 👋
-<h3>Este é o espaço onde passo a maior parte do meu tempo, aqui a minha imaginação e a criatividade se tornam código. 😊💻</h3>
+## 😊 Olá, 👋
+<h3>Este é o espaço onde passo a maior parte do meu tempo, aqui a minha imaginação e a criatividade se tornam código. 💻</h3>
 
- - 👦 Meu nome é Higor Reis, tenho 28 anos, sou programador Full Stack iniciante apaixonado por desenvolvimento e tecnologia. 
+ - 👦 Meu nome é <strong>Higor Reis</strong>, tenho 28 anos, sou programador <strong>Full Stack</strong> iniciante apaixonado por desenvolvimento e tecnologia. 
  - 💻 Atualmente sou Analista de Suporte Técnico.
  - 💱 Porém já estou em transição de carreira a um bom tempo para tornar-se um desenvolvedor determinado e competente para desempenhar minhas tarefas com exatidão.
  - 🎓 Formado em Computação na Universidade Estadual do Ceará - UECE, cursando 2º semestre em Análise e Desenvolvimento de Sistemas - UNIFOR e participando de projetos 
