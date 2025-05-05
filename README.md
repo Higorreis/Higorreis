@@ -30,12 +30,14 @@
   <img align="center" alt="Higor-vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
   <img align="center" alt="Higor-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img align="center" alt="Higor-mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  <img align="center" alt="Higor-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+          
 </div> <br>
 
  ### 📊 Meu GitHub Stats 
  
  <div>
-	<img heigth="170em" src="https://github-readme-stats.vercel.app/api?username=higorreis&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
+   <img heigth="170em" src="https://github-readme-stats.vercel.app/api?username=higorreis&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
    <img heigth="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorreis&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
  </div>
   
